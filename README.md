@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**basitali111/basitali111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little more about me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My github stats
+
+
+
+- 🔭 I’m currently working on javascript
+- 🌱 I’m currently learning Javscript
+- 👯 I’m looking to collaborate on javascript project
+- 🤔 I’m looking for help with javascript
+- 💬 Ask me about by sending mail on  allahbadshah148@gmial.com
+- 📫 How to reach me:
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
