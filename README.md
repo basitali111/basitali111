@@ -13,13 +13,9 @@
 <a href="<h1 align="center">Hi there, I'm Basit Ali  👋</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kossi-stack&label=Profile%20views&color=0e75b6&style=flat" alt="kossi-stack" /> </p>
-
-- 💬 Ask me about **anything concerning civil engineering or programming. I will be happy to answer you.**
-
-- 📫 How to reach me **Kfioklou2020@gmail.com**
-
-- ⚡ Fun fact **I Never stop learning**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basitali111
+&label=Profile%20views&color=0e75b6&style=flat" alt="basitali111
+" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
