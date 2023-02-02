@@ -1,4 +1,4 @@
-![Taupe Influencer Media Kit Presentation](https://user-images.githubusercontent.com/63063973/216356474-c5ec63ae-7d9b-4dd7-b9c6-7d9a9004045d.png)
+
 # Hi there 👋, I'm Basit Ali
 ## I am a Full-Stack Developer | Software Engineer
 ### Currently available for work
