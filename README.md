@@ -16,7 +16,7 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
 
 ## Contact me:
 - 📫 How to reach me: 
-  #### Github: https://github.com/NATASHA-ct/
+  #### Github: https://github.com/basitali111/
   #### LinkedIn: https://www.linkedin.com/in/basit-ali-jobs/
   #### Email: allahbadshah148@gmail.com 
   #### Portfolio: https://basitali111.github.io/My-portfolio/
