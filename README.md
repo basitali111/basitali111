@@ -1,3 +1,4 @@
+![Taupe Influencer Media Kit Presentation](https://user-images.githubusercontent.com/63063973/216356474-c5ec63ae-7d9b-4dd7-b9c6-7d9a9004045d.png)
 # Hi there 👋, I'm Basit Ali
 ## I am a Full-Stack Developer | Software Engineer
 ### Currently available for work
@@ -23,7 +24,8 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
   #### Twitter: https://twitter.com/BasitAl35031734
 
 
-![sb-blog-programming](https://user-images.githubusercontent.com/106079814/180174201-0437a2ab-dc83-47b3-a11b-5f0a834b9755.png)
+![Taupe Influencer Media Kit Presentation](https://user-images.githubusercontent.com/63063973/216356551-5f6236e3-c6cb-472a-83f8-3aa3287f6924.png)
+
 
 
 
