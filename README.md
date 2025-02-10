@@ -9,8 +9,8 @@ A motivated software engineer(full-stack developer) with a drive to learn and ma
   - 💬 Ask me about Coding 
   
 ## Skills:  
- - Front-end Technologies: JavaScript (ES6), React, Redux,TypeScript,Tailwind,Webpack, Figma, Bootstrap, SASS, HTML & CSS
- - Backend Technologies: Databases, SQL, Postgresql,PHP, FilePond,Ruby on Rails, Rest API, Rspec Testing
+ - Front-end Technologies: JavaScript (ES6), React, Redux, TypeScript, Tailwind, Webpack, Figma, React Native, Bootstrap, SASS, HTML & CSS
+ - Backend Technologies: Databases, SQL, Postgresql, PHP, FilePond, Ruby on Rails, Rest API, Rspec Testing
  - Tools & Methods: Git, GitHub, Gitflow, WordPress, Elementor, Joomla, Heroku, Netlify, Render
                      Mobile/Responsive -Development, Chrome Dev Tool
  - Professional Skills: Remote Pair-Programming, Teamwork, Mentoring, Project management   
